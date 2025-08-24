@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "FreeRTOS_ATmega238", "FreeRTOS_ATmega238\FreeRTOS_ATmega238.cproj", "{F7FC22C5-3C95-40C3-8A22-5C90E72F0C3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7FC22C5-3C95-40C3-8A22-5C90E72F0C3D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{F7FC22C5-3C95-40C3-8A22-5C90E72F0C3D}.Debug|AVR.Build.0 = Debug|AVR
+		{F7FC22C5-3C95-40C3-8A22-5C90E72F0C3D}.Release|AVR.ActiveCfg = Release|AVR
+		{F7FC22C5-3C95-40C3-8A22-5C90E72F0C3D}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
