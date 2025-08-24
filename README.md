@@ -1,4 +1,4 @@
-# FreeRTOS_ATmega238
+# FreeRTOS_ATmega328
 This demonstration showcases the integration of the FreeRTOS real-time operating system with the ATmega328 microcontroller, 
 commonly found in Arduino Uno boards. The demo highlights multitasking capabilities by running multiple concurrent tasks such as:
 
