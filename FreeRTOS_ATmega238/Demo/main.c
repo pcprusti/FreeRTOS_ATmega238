@@ -112,7 +112,6 @@ portSHORT main(void)
 void init(void)
 {
 	vLEDInit();
-	DDRB |= (1 << PB5);
 }
 
 void vApplicationIdleHook( void )
